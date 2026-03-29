@@ -17,6 +17,19 @@ export const situations = [
         "label": "🗺️ Strategy",
         "sections": [
           {
+            "title": "⚡ Quick Plan — Termination Meeting",
+            "type": "ol",
+            "items": [
+              "<strong>Before (1–2 days prior):</strong> Complete legal review → confirm severance → brief witness → book private room → prepare termination letter",
+              "<strong>Open (0–1 min):</strong> Greet, introduce witness, state the purpose directly — no small talk",
+              "<strong>Deliver (1–2 min):</strong> State the decision clearly: \"We have decided to end your employment, effective [date]\"",
+              "<strong>Pause (2–3 min):</strong> Allow silence. Let them react. Acknowledge emotion: \"I understand this is hard\"",
+              "<strong>Logistics (5–7 min):</strong> Walk through severance, benefits, last day, equipment return, reference process",
+              "<strong>Close (2–3 min):</strong> Provide point-of-contact for questions. Offer to walk them out or give them a moment",
+              "<strong>After (same day):</strong> Revoke IT access → brief manager → send team talking points within 24 hours"
+            ]
+          },
+          {
             "title": "📌 Conversation Structure (B.R.I.E.F. Model)",
             "type": "ol",
             "items": [
@@ -182,6 +195,20 @@ export const situations = [
         "label": "🗺️ Strategy",
         "sections": [
           {
+            "title": "⚡ Quick Plan — Demotion Meeting",
+            "type": "ol",
+            "items": [
+              "<strong>Before (2–3 days prior):</strong> Document business rationale → confirm new title, level & comp impact → consult legal → align with manager → prepare re-promotion path",
+              "<strong>Open (1–2 min):</strong> Set a collaborative tone: \"I want to have an open conversation about your role and growth\"",
+              "<strong>Deliver (2–3 min):</strong> State the change and effective date. Be specific about the reason — restructuring, scope, or performance",
+              "<strong>Acknowledge (2–3 min):</strong> Validate the emotional impact. Pause. Don't rush to fill silence",
+              "<strong>Reframe (3–5 min):</strong> Position it as a reset. Show what success looks like in the new role. Present the re-promotion criteria",
+              "<strong>Compensation (2–3 min):</strong> Clarify any pay changes transparently — or confirm no change",
+              "<strong>Communication (2 min):</strong> Ask how they want the change communicated to peers — give them agency",
+              "<strong>After (24–48 hrs):</strong> Send written confirmation → execute team communication plan → schedule 30-day check-in → arrange coaching"
+            ]
+          },
+          {
             "title": "📌 Conversation Arc",
             "type": "ol",
             "items": [
@@ -323,6 +350,20 @@ export const situations = [
         "label": "🗺️ Strategy",
         "sections": [
           {
+            "title": "⚡ Quick Plan — PIP Kick-off Meeting",
+            "type": "ol",
+            "items": [
+              "<strong>Before (3–5 days prior):</strong> Compile performance data & examples → draft PIP with S.M.A.R.T. goals → legal review → brief manager on coaching role → identify support resources",
+              "<strong>Open (1–2 min):</strong> Frame as support, not punishment: \"My goal is to share a plan that gives you the best chance to succeed\"",
+              "<strong>Tell the gap (3–5 min):</strong> Present specific data — targets vs. actuals, concrete examples. No vague generalities",
+              "<strong>Walk through PIP (5–7 min):</strong> Goals, metrics, timeline (30/60/90 days), check-in cadence. Let them read the document",
+              "<strong>Resources (2–3 min):</strong> Outline support: coaching, training, adjusted workload, weekly 1:1s, peer mentor",
+              "<strong>Consequences (1–2 min):</strong> State once, clearly: \"If goals are met, you continue. If not, next steps may include separation\"",
+              "<strong>Their voice (3–5 min):</strong> Ask for their input — let them add goals or suggest support they need",
+              "<strong>After (same day):</strong> Send PIP document for signature → schedule first weekly check-in → brief manager → set interim milestones"
+            ]
+          },
+          {
             "title": "📌 Conversation Framework (S.T.A.R.T.)",
             "type": "ol",
             "items": [
@@ -428,6 +469,19 @@ export const situations = [
         "label": "🗺️ Strategy",
         "sections": [
           {
+            "title": "⚡ Quick Plan — Conflict Mediation",
+            "type": "ol",
+            "items": [
+              "<strong>Before (1–3 days prior):</strong> Screen for harassment/discrimination → gather context from manager → book neutral room → prepare ground rules",
+              "<strong>Phase 1 — Individual meetings (20–30 min each):</strong> Meet each person separately. Listen without judging. Ask: \"What happened?\" / \"How is it affecting your work?\" / \"What would resolution look like?\"",
+              "<strong>Phase 2 — Joint session, Open (3–5 min):</strong> Set ground rules: no interrupting, \"I\" statements only, focus on behaviours not character, confidentiality",
+              "<strong>Phase 2 — Perspectives (10–15 min):</strong> Each person shares uninterrupted. After each, the other summarises what they heard",
+              "<strong>Phase 2 — Bridge (5–10 min):</strong> Highlight common ground. Reframe attacks into needs. Redirect to \"what do we want going forward?\"",
+              "<strong>Phase 3 — Agreement (5 min):</strong> Co-create written commitments. Both sign. Schedule a follow-up in 2–4 weeks",
+              "<strong>After (2–4 weeks):</strong> Follow-up check-in → monitor for retaliation or passive-aggression → equip manager to track team dynamics"
+            ]
+          },
+          {
             "title": "📌 3-Phase Mediation Process",
             "type": "ol",
             "items": [
@@ -532,6 +586,19 @@ export const situations = [
       {
         "label": "🗺️ Strategy",
         "sections": [
+          {
+            "title": "⚡ Quick Plan — Manager Coaching Conversation",
+            "type": "ol",
+            "items": [
+              "<strong>Before (1 week prior):</strong> Gather 360° feedback themes → compile team engagement data → assess competence vs. commitment (Hersey & Blanchard) → identify 2–3 target behaviours",
+              "<strong>Open (2–3 min):</strong> Frame as developmental, not disciplinary: \"This is a leadership check-in, not a performance review\"",
+              "<strong>Share data (5–7 min):</strong> Present feedback themes (patterns, not individual quotes). Share team metrics. Ask for their perspective",
+              "<strong>Explore root causes (5 min):</strong> \"What's getting in the way? Workload, confidence, skill, or something else?\"",
+              "<strong>Co-create plan (5–7 min):</strong> Agree on 2–3 specific behavioural shifts with measurable outcomes and a timeline",
+              "<strong>Set stakes (2 min):</strong> Be transparent: \"The team needs this shift within [timeframe]. I believe you can do it, and here's the support\"",
+              "<strong>After (ongoing):</strong> Arrange coaching (external if possible) → schedule bi-weekly check-ins → celebrate early wins publicly → reassess at 60–90 days"
+            ]
+          },
           {
             "title": "📌 Coaching Conversation Structure",
             "type": "ol",
@@ -639,6 +706,19 @@ export const situations = [
       {
         "label": "🗺️ Strategy",
         "sections": [
+          {
+            "title": "⚡ Quick Plan — Pay Raise Refusal",
+            "type": "ol",
+            "items": [
+              "<strong>Before (1–2 days prior):</strong> Review comp vs. market benchmarks → check internal pay equity → understand the specific reason → align with manager → prepare non-monetary alternatives",
+              "<strong>Open (1–2 min):</strong> Validate the ask: \"I appreciate you raising this — it shows you're invested in your career here\"",
+              "<strong>Deliver (1–2 min):</strong> State the decision directly: \"We're not able to approve a raise at this time.\" Give the specific reason",
+              "<strong>Listen (2–3 min):</strong> Ask what prompted the request. Listen for market offers, life changes, or feeling undervalued",
+              "<strong>Path forward (5–7 min):</strong> Present concrete timeline for next review. Offer non-monetary alternatives (bonus, development budget, flexibility, title)",
+              "<strong>Reaffirm (1–2 min):</strong> Reinforce their value to the team with specific examples of their contributions",
+              "<strong>After (same week):</strong> Send follow-up email with next steps → brief manager to reinforce value in 1:1s → set calendar reminder for review date → monitor engagement"
+            ]
+          },
           {
             "title": "📌 Conversation Structure (A.C.K. Model)",
             "type": "ol",
