@@ -132,49 +132,6 @@ export const situations = [
             ]
           }
         ]
-      },
-      {
-        "label": "✅ Checklist",
-        "sections": [
-          {
-            "title": "📋 Before the Meeting",
-            "type": "ul",
-            "items": [
-              "☐ Legal review of termination documentation complete",
-              "☐ Severance package details confirmed with Comp & Benefits",
-              "☐ Final paycheck and PTO payout calculated",
-              "☐ IT notified for system access revocation (timed to meeting)",
-              "☐ Witness identified and briefed",
-              "☐ Private room booked",
-              "☐ Termination letter printed and reviewed",
-              "☐ Outplacement or career transition resources prepared"
-            ]
-          },
-          {
-            "title": "📋 During the Meeting",
-            "type": "ul",
-            "items": [
-              "☐ Deliver the decision within the first 60 seconds",
-              "☐ State the effective date clearly",
-              "☐ Hand over the termination letter",
-              "☐ Walk through severance and benefits",
-              "☐ Allow questions — answer process questions, defer others",
-              "☐ Provide the point-of-contact for follow-up"
-            ]
-          },
-          {
-            "title": "📋 After the Meeting",
-            "type": "ul",
-            "items": [
-              "☐ Escort the employee to collect belongings (if same day)",
-              "☐ Confirm IT access revocation",
-              "☐ Brief the direct manager on team communication",
-              "☐ Send the team talking-points memo",
-              "☐ File all documents in the employee's HR record",
-              "☐ Schedule a debrief with the manager within 48 hours"
-            ]
-          }
-        ]
       }
     ]
   },
@@ -280,53 +237,6 @@ export const situations = [
               "Offer a <strong>clear growth path</strong> back — \"Here's what re-promotion looks like.\"",
               "Consider a <strong>title adjustment</strong> that minimises the perception of demotion (e.g., \"Senior Specialist\" vs. stripping \"Manager\").",
               "Pair with <strong>coaching or mentorship</strong> to signal investment, not abandonment."
-            ]
-          }
-        ]
-      },
-      {
-        "label": "✅ Checklist",
-        "sections": [
-          {
-            "title": "📋 Before the Meeting",
-            "type": "ul",
-            "items": [
-              "☐ Document the specific business rationale (restructuring, performance data, scope change)",
-              "☐ Confirm new role title, level, and effective date",
-              "☐ Determine compensation impact and get Comp & Benefits sign-off",
-              "☐ Consult legal to assess constructive dismissal risk",
-              "☐ Align with the direct manager on messaging and support plan",
-              "☐ Prepare a clear growth path back (re-promotion criteria)",
-              "☐ Draft a communication plan for the broader team",
-              "☐ Book a private room — never deliver this in a shared space"
-            ]
-          },
-          {
-            "title": "📋 During the Meeting",
-            "type": "ul",
-            "items": [
-              "☐ State the change clearly within the first 2 minutes",
-              "☐ Explain the specific business rationale",
-              "☐ Acknowledge emotional impact — pause and allow reaction",
-              "☐ Walk through compensation changes (or confirm no change)",
-              "☐ Present the new role expectations and success criteria",
-              "☐ Share the path to re-promotion with concrete milestones",
-              "☐ Ask how they want the change communicated to peers",
-              "☐ Offer coaching or mentorship as ongoing support"
-            ]
-          },
-          {
-            "title": "📋 After the Meeting",
-            "type": "ul",
-            "items": [
-              "☐ Send written confirmation of the role change and terms",
-              "☐ Update HRIS with new title, level, and compensation",
-              "☐ Execute the agreed team communication plan within 24–48 hours",
-              "☐ Brief the manager on monitoring morale and engagement",
-              "☐ Schedule a 30-day check-in with the employee",
-              "☐ Arrange coaching or mentorship sessions if offered",
-              "☐ Monitor for flight risk signals over the next 60 days",
-              "☐ File all documentation in the employee's HR record"
             ]
           }
         ]
@@ -814,49 +724,6 @@ export const situations = [
               "If performance is the gap, tie it to the <strong>PIP or development plan</strong> so it feels actionable, not punitive.",
               "Have the <strong>direct manager reinforce value</strong> in follow-up 1:1s — the employee needs to feel seen, not just declined.",
               "Document the conversation and <strong>set a calendar reminder</strong> to proactively revisit — don't wait for them to ask again."
-            ]
-          }
-        ]
-      },
-      {
-        "label": "✅ Checklist",
-        "sections": [
-          {
-            "title": "📋 Before the Conversation",
-            "type": "ul",
-            "items": [
-              "☐ Review the employee's current comp vs. market benchmarks",
-              "☐ Check internal pay equity for similar roles and tenure",
-              "☐ Understand the specific reason for refusal (budget, performance, timing)",
-              "☐ Align with the direct manager on messaging and follow-up plan",
-              "☐ Prepare non-monetary alternatives to offer",
-              "☐ Review the employee's recent performance data and contributions",
-              "☐ Know the next compensation review cycle date"
-            ]
-          },
-          {
-            "title": "📋 During the Conversation",
-            "type": "ul",
-            "items": [
-              "☐ Acknowledge and validate the request",
-              "☐ Deliver the decision clearly within the first 2 minutes",
-              "☐ Explain the specific reason",
-              "☐ Present the path forward with a concrete timeline",
-              "☐ Offer non-monetary alternatives if available",
-              "☐ Ask what prompted the request — listen for underlying concerns",
-              "☐ Reaffirm their value to the team"
-            ]
-          },
-          {
-            "title": "📋 After the Conversation",
-            "type": "ul",
-            "items": [
-              "☐ Send a follow-up email summarising the discussion and next steps",
-              "☐ Brief the direct manager to reinforce value in upcoming 1:1s",
-              "☐ Set a calendar reminder for the agreed review date",
-              "☐ Monitor for signs of disengagement over the next 4–6 weeks",
-              "☐ Document the conversation in the employee's HR file",
-              "☐ Follow through on any promised alternatives or development support"
             ]
           }
         ]
