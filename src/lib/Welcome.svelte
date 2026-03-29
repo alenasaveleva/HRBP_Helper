@@ -3,7 +3,7 @@
 </script>
 
 <section class="welcome">
-  <img src="/hero.gif" alt="HRBP Copilot" class="hero-gif" />
+  <img src="{import.meta.env.BASE_URL}hero.gif" alt="HRBP Copilot" class="hero-gif" />
   <div class="logo">HRBP Copilot</div>
   <h1>Hi, <span class="accent">HRBP</span> 👋</h1>
   <p class="subtitle">
