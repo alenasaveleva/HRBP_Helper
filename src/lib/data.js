@@ -44,6 +44,7 @@ export const situations = [
             "title": "🎯 Key Principles",
             "type": "ul",
             "items": [
+              "<strong>No small talk.</strong> Do not open with chit-chat or \"How was your weekend?\" — get to the point within the first 30 seconds. Small talk before bad news feels manipulative.",
               "The decision is <strong>final</strong> — do not present it as open for debate.",
               "Keep the meeting to <strong>15–20 minutes</strong>. Longer meetings increase emotional escalation.",
               "Have a <strong>witness</strong> present (another HR rep or manager).",
